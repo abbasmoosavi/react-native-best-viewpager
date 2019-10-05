@@ -1,0 +1,38 @@
+{
+  "name": "react-native-best-viewpager",
+  "version": "1.0.0",
+  "description": "View pager for react native projects, use for android and ios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1;"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbasmoosavi/react-native-best-viewpager.git"
+  },
+  "keywords": [
+    "react-native-best-viewpager",
+    "react-native-view-pager",
+    "react-native-component",
+    "react-component",
+    "react-native",
+    "ios",
+    "android",
+    "viewpager",
+    "pager",
+    "pageview",
+    "page",
+    "tab-navigator",
+    "scrollable",
+    "tab",
+    "navigator",
+    "tab-bar",
+    "tab-view"
+  ],
+  "author": "arvin_abbas_",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abbasmoosavi/react-native-best-viewpager.git/issues"
+  },
+  "homepage": "https://github.com/abbasmoosavi/react-native-best-viewpager.git#readme"
+}
