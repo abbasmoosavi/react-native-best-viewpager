@@ -1,6 +1,6 @@
 {
   "name": "react-native-best-viewpager",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "View pager for react native projects, use for android and ios",
   "main": "index.js",
   "scripts": {
@@ -34,5 +34,8 @@
   "bugs": {
     "url": "https://github.com/abbasmoosavi/react-native-best-viewpager.git/issues"
   },
-  "homepage": "https://github.com/abbasmoosavi/react-native-best-viewpager.git#readme"
+  "homepage": "https://github.com/abbasmoosavi/react-native-best-viewpager.git#readme",
+  "dependencies": {
+    "@react-native-community/viewpager": "^3.3.0"
+  }
 }
