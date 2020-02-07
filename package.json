@@ -1,6 +1,6 @@
 {
   "name": "react-native-best-viewpager",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "View pager for react native projects, use for android and ios",
   "main": "index.js",
   "scripts": {
