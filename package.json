@@ -36,6 +36,6 @@
   },
   "homepage": "https://github.com/abbasmoosavi/react-native-best-viewpager.git#readme",
   "dependencies": {
-    "@react-native-community/viewpager": "^3.3.0"
+    "react-native-pager-view": "^5.4.1"
   }
 }
